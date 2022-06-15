@@ -1,4 +1,4 @@
-import React, { useState, useContext, Children } from 'react';
+import React, { useState, useContext } from 'react';
 import sublinks from './data';
 
 const AppContext = React.createContext();
